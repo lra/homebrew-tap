@@ -1,8 +1,8 @@
 class Sotb < Formula
   desc "Shadow of the Blitz parallax scrolling demo"
   homepage "https://github.com/lra/sotb"
-  url "https://github.com/lra/sotb/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "7533b55afff0b90312b2ecb5d0e069752fad41ffa92f19668b1e0a20f442fff0"
+  url "https://github.com/lra/sotb/archive/refs/tags/v0.5.1.tar.gz"
+  sha256 "e2f49e34f881156f8c89fc1e68740bf146edb616393b2e848605cc2c856cfbe8"
 
   depends_on "pkgconf" => :build
   depends_on "rust" => :build
