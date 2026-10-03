@@ -1,8 +1,8 @@
 class Cube < Formula
   desc "Classic demoscene flat-shaded rotating cube"
   homepage "https://github.com/lra/3dcube"
-  url "https://github.com/lra/3dcube/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "10f9737f2301b8466da5fcce3bec4a442a67f8c6012c5662421c2b0ac2f7cfa2"
+  url "https://github.com/lra/3dcube/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "394ec5ab9943f3bb77494de2d2c1f2ebcc521e1f4658d969a16286f66f451e8d"
 
   depends_on "rust" => :build
 
