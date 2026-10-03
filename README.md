@@ -30,3 +30,4 @@ brew install lra/tap/<formula>
 | Formula | Description |
 | ------- | ----------- |
 | [`sotb`](https://github.com/lra/sotb) | Shadow of the Blitz parallax scrolling demo |
+| [`fire`](https://github.com/lra/fire) | Doom-style fire effect, rewritten for looks |
