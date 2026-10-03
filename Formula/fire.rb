@@ -1,8 +1,8 @@
 class Fire < Formula
   desc "Doom-style fire effect, rewritten for looks"
   homepage "https://github.com/lra/fire"
-  url "https://github.com/lra/fire/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "ac7cb8d1320de070ce97323756b28c727e628076451c9ff2f739b9fe93a602cf"
+  url "https://github.com/lra/fire/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "38f74830ef36c0a8fedb053b038a4cf7e7a1a2598090692e69ceddd9fe9501d5"
 
   depends_on "rust" => :build
 
