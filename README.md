@@ -29,5 +29,6 @@ brew install lra/tap/<formula>
 
 | Formula | Description |
 | ------- | ----------- |
-| [`sotb`](https://github.com/lra/sotb) | Shadow of the Blitz parallax scrolling demo |
+| [`cube`](https://github.com/lra/3dcube) | Classic demoscene flat-shaded rotating cube |
 | [`fire`](https://github.com/lra/fire) | Doom-style fire effect, rewritten for looks |
+| [`sotb`](https://github.com/lra/sotb) | Shadow of the Blitz parallax scrolling demo |
